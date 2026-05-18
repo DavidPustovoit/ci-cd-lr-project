@@ -85,3 +85,5 @@ export default defineConfig([
 - Version: v1.0.1
 - PR Title: Manual push to main
 - Chuck Norris Joke: Chuck Norris has already won the Tour De France whilst sitting on a tortoise's back with no legs. In 2015.
+
+Initial setup for CI/CD pipeline.
