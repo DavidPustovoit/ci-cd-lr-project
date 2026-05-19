@@ -75,7 +75,7 @@ jobs:
 
       # Крок 6: Створюємо Git Tag та GitHub Release
       - name: Create Release
-        uses: softprops/action-gh-release@v2
+        uses: softprops/action-gh-release@c062e08bd532815e2082a85e87e3ef29c3e6d191
         with:
           tag_name: ${{ steps.versioning.outputs.version }}
           name: Release ${{ steps.versioning.outputs.version }}
