@@ -84,7 +84,8 @@ export default defineConfig([
 
 Initial setup for CI/CD pipeline.
 
+
 ## Latest Release Info
-- Version: v1.0.2
+- Version: v1.0.3
 - PR Title: Manual push to main
-- Chuck Norris Joke: Chuck Norris can easily remove your testicles through your anus.
+- Chuck Norris Joke: Chuck Norris set a world record in the 100 yard dash at 8.2 seconds. In doing so, he also set the world record for the mile run as he lapped all opponets in the 100 yard dash 18 times.
